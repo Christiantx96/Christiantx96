@@ -4,7 +4,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&height=60&lines=const+dev+%3D+%22Seu+Nome%22+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;function+build(idea)+%7B+return+%F0%9F%9A%80+%7D;%2F%2F+Transformando+caf%C3%A9+em+c%C3%B3digo+%E2%98%95;while(true)+%7B+learn()+%7C%7C+create()+%7D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&height=60&lines=const+dev+%3D+%22Christian+Teixeira%22+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;function+build(idea)+%7B+return+%F0%9F%9A%80+%7D;%2F%2F+Transformando+caf%C3%A9+em+c%C3%B3digo+%E2%98%95;while(true)+%7B+learn()+%7C%7C+create()+%7D" alt="Typing SVG" />
 </a>
 
 </div>
