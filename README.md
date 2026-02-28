@@ -1,190 +1,117 @@
-<!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,100:0a0a0a&height=160&section=header&text=%3E_%20SEUUSERNAME&fontSize=52&fontColor=00ff88&fontAlignY=55&desc=Full%20Stack%20Developer%20%2F%2F%20Builder%20%2F%2F%20Problem%20Solver&descAlignY=78&descSize=14&descColor=00cc66&animation=blinking&stroke=00ff88&strokeWidth=1"/>
-
-<br/>
-
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║    $ whoami                                                          ║
-║    > Desenvolvedor apaixonado por criar soluções que importam       ║
-║                                                                      ║
-║    $ uptime                                                          ║
-║    > Codando há X anos, sem previsão de parar                       ║
-║                                                                      ║
-║    $ location                                                        ║
-║    > Brasil 🇧🇷 — disponível para o mundo 🌍                        ║
-║                                                                      ║
-║    $ status                                                          ║
-║    > [██████████] 100% Motivado                                     ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=&animation=twinkling"/>
+
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&height=60&lines=const+dev+%3D+%22Seu+Nome%22+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;function+build(idea)+%7B+return+%F0%9F%9A%80+%7D;%2F%2F+Transformando+caf%C3%A9+em+c%C3%B3digo+%E2%98%95;while(true)+%7B+learn()+%7C%7C+create()+%7D" alt="Typing SVG" />
+</a>
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<!-- ══════════════ SEÇÃO 1 — EDITOR DE CÓDIGO ══════════════ -->
 
-## `> ls ./sobre-mim`
+```tsx
+// 📁 src/dev/SeuNome.tsx                              ● não salvo
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+import { Developer, Stack, Contact } from "@universe/earth/brasil";
+
+const SeuNome: Developer = {
+
+  // 🟡 IDENTIDADE
+  nome:        "Seu Nome",
+  role:        "Full Stack Developer",
+  localização: "🇧🇷 Brasil  →  🌐 Remoto",
+  status:      "🟢 Disponível para oportunidades",
+
+  // 🔵 SOBRE
+  bio: `Apaixonado por transformar ideias em produtos reais.
+        Gosto de código limpo, UX que impressiona
+        e soluções que escalam de 1 para 1 milhão de usuários.`,
+
+  // 🟣 STACK
+  stack: {
+    frontend:  ["⚛️ React", "🔺 Next.js", "🎨 TailwindCSS", "📘 TypeScript"],
+    backend:   ["🟢 Node.js", "🐍 Python", "🐘 PostgreSQL", "🔴 Redis"],
+    devops:    ["🐳 Docker", "☁️ AWS", "⚙️ GitHub Actions"],
+  },
+
+  // 🟠 APRENDENDO AGORA
+  atualmente: {
+    estudando: "☸️ Kubernetes  +  📐 System Design",
+    criando:   "🛠️ SaaS pessoal com Next.js + Go",
+    lendo:     "📚 Clean Architecture — Robert C. Martin",
+  },
+
+  // 🔴 CONTATO
+  contato: {
+    linkedin:  "linkedin.com/in/seuperfil",
+    portfolio: "seusite.dev",
+    email:     "seuemail@gmail.com",
+  },
+
+};
+
+export default SeuNome;  // ← clique em mim 🖱️
+```
+
+---
+
+<!-- ══════════════ SEÇÃO 2 — TERMINAL + STATS ══════════════ -->
 
 ```bash
-#!/bin/bash
+# 📁 terminal  ~  stats & projetos               ██████████ 100%
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-NAME="Seu Nome"
-ROLE="Full Stack Developer"
-LOCATION="Brasil 🇧🇷"
+$ github --user seuusername --stats
+  ├─ ⭐ Stars conquistadas   →  calculando...
+  ├─ 🔀 Pull Requests        →  muitos e bons
+  ├─ 🐛 Issues resolvidas    →  mais do que gostaria
+  └─ 🔥 Streak atual         →  sem parar
 
-# O que eu faço
-SKILLS=(
-  "Arquiteto interfaces que encantam"
-  "Construo APIs que escalam"
-  "Automatizo o que pode ser automatizado"
-  "Transformo café em código ☕→💻"
-)
+$ ls ./projetos --top
+  ├─ 🚀  [repo-alpha]  →  SaaS  │ Next.js · Prisma · Stripe
+  ├─ ⚡  [repo-beta]   →  API   │ Node.js · PostgreSQL · Docker
+  └─ 🔧  [repo-gamma]  →  CLI   │ Python · Rich · Typer
 
-# Atualmente
-LEARNING="Kubernetes + System Design"
-BUILDING="SaaS com Next.js & Go"
-SEEKING="Projetos open source"
+$ ping contato --all
+  ✅  linkedin  →  200 OK   🟦
+  ✅  portfolio →  200 OK   🟪
+  ✅  email     →  200 OK   🟥
 
-echo "Olá, mundo! 👋"
-echo "Bem-vindo ao meu espaço digital."
+$ fortune
+  💬 "Código é poesia. Faça valer cada linha."
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-</td>
-<td width="50%" valign="top">
+---
 
-## `> cat ./metricas.json`
+<div align="center">
 
+<!-- STATS LADO A LADO -->
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=A78BFA&text_color=79c0ff&hide_title=false&rank_icon=github"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=79c0ff&langs_count=6"/>
+
+<!-- STREAK -->
 <br/>
+<img src="https://streak-stats.demolab.com?user=seuusername&theme=dark&hide_border=true&background=0d1117&stroke=00D9FF&ring=A78BFA&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=79c0ff&dates=586069"/>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=58a6ff&ring_color=00ff88)](https://github.com/seuusername)
-
-[![Streak](https://streak-stats.demolab.com?user=seuusername&theme=dark&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=ff6b6b&currStreakLabel=00ff88&sideLabels=58a6ff)](https://git.io/streak-stats)
-
-</td>
-</tr>
-</table>
-
----
-
-## `> tree ./stack`
-
-```
-stack/
-├── 🌐 frontend/
-│   ├── frameworks/     [React, Next.js, Astro]
-│   ├── estilo/         [TailwindCSS, Framer Motion, SASS]
-│   └── linguagens/     [TypeScript, JavaScript]
-│
-├── ⚙️  backend/
-│   ├── runtimes/       [Node.js, Python, Go]
-│   ├── frameworks/     [Express, FastAPI, Gin]
-│   └── bancos/         [PostgreSQL, MongoDB, Redis]
-│
-├── ☁️  infra/
-│   ├── containers/     [Docker, Kubernetes]
-│   ├── cloud/          [AWS, GCP, Vercel]
-│   └── ci-cd/          [GitHub Actions, Terraform]
-│
-└── 🛠️  tools/
-    ├── [Git, Linux, Bash]
-    ├── [VSCode, Neovim]
-    └── [Figma, Postman]
-```
-
----
-
-## `> ./linguagens --top`
-
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=donut&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=58a6ff&langs_count=8)](https://github.com/seuusername)
-
-</div>
-
----
-
-## `> ls ./projetos --featured`
-
-<div align="center">
-
-| Projeto | Descrição | Stack | Status |
-|---------|-----------|-------|--------|
-| 🚀 **[Projeto Alpha](https://github.com/seuusername/repo1)** | Descrição curta e impactante do projeto | `Next.js` `TypeScript` `Prisma` | ![Active](https://img.shields.io/badge/-Ativo-00ff88?style=flat-square) |
-| ⚡ **[Projeto Beta](https://github.com/seuusername/repo2)** | Descrição curta e impactante do projeto | `Node.js` `MongoDB` `Docker` | ![Active](https://img.shields.io/badge/-Ativo-00ff88?style=flat-square) |
-| 🔧 **[Projeto Gamma](https://github.com/seuusername/repo3)** | Descrição curta e impactante do projeto | `Python` `FastAPI` `Redis` | ![WIP](https://img.shields.io/badge/-Em%20Dev-ffaa00?style=flat-square) |
-| 🧪 **[Projeto Delta](https://github.com/seuusername/repo4)** | Descrição curta e impactante do projeto | `Go` `PostgreSQL` `AWS` | ![WIP](https://img.shields.io/badge/-Em%20Dev-ffaa00?style=flat-square) |
-
-</div>
-
----
-
-## `> git log --graph`
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=seuusername&bg_color=0d1117&color=00ff88&line=00cc66&point=00ff88&area=true&area_color=00ff8820&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## `> ping ./contato`
-
-<div align="center">
-
-```
-Sending packets to Seu Nome...
-
-[✓] LinkedIn    → linkedin.com/in/seuperfil        Response: 200 OK
-[✓] Portfolio   → seusite.com                       Response: 200 OK
-[✓] Email       → seuemail@gmail.com               Response: 200 OK
-[✓] Twitter/X   → x.com/seuperfil                  Response: 200 OK
-
-4 packets transmitted, 4 received, 0% packet loss ✅
-```
+<!-- BADGES REDES SOCIAIS -->
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuperfil)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00ff88?style=for-the-badge&logo=vercel&logoColor=black)](https://seusite.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://seusite.dev)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/seuperfil)
-
-</div>
-
----
-
-## `> trophy --show-all`
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=seuusername&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<div align="center">
-
-```bash
-$ echo "Obrigado pela visita!" && fortune
-
-> "Primeiro resolva o problema. Depois escreva o código."
->                                           — John Johnson
-
-# Visitantes únicos
-```
-
-![Visitors](https://komarev.com/ghpvc/?username=seuusername&color=00ff88&style=for-the-badge&label=VISITANTES)
+[![GitHub](https://img.shields.io/badge/GitHub-A78BFA?style=for-the-badge&logo=github&logoColor=black)](https://github.com/seuusername)
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:000000&height=100&section=footer&text=%24%20exit&fontSize=24&fontColor=00ff88&fontAlignY=65&animation=blinking"/>
+![Visitors](https://komarev.com/ghpvc/?username=seuusername&color=00D9FF&style=flat-square&label=👁️+visitantes)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer&animation=twinkling"/>
 
 </div>
