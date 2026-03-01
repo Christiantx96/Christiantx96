@@ -104,8 +104,8 @@ $ fortune
 
 [![instagram](https://img.shields.io/badge/instagram-0077B5?style=for-the-badge&logo=Instagram&logoColor=white)](https://linkedin.com/in/seuperfil)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://seusite.dev)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-A78BFA?style=for-the-badge&logo=github&logoColor=black)](https://github.com/seuusername)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![Youtube](https://img.shields.io/badge/youtube-A78BFA?style=for-the-badge&logo=youtube&logoColor=black)](https://github.com/seuusername)
 
 <br/>
 
