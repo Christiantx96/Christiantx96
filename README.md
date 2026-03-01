@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=130&section=header&text=Seu+Nome&fontSize=42&fontColor=58a6ff&fontAlignY=65&desc=Full+Stack+Developer&descSize=16&descColor=8b949e&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=130&section=header&text=Christian+Teixeira&fontSize=42&fontColor=58a6ff&fontAlignY=65&desc=Full+Stack+Developer&descSize=16&descColor=8b949e&animation=fadeIn"/>
 
 <div align="center">
 
@@ -36,7 +36,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=seuusername&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 </div>
 
@@ -61,8 +61,6 @@
 
 <div align="center">
 
-<img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=donut-vertical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6"/>
-<img height="145em" src="https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=ff6b6b&text_color=8b949e&hide_title=true&rank_icon=percentile"/>
 
 </div>
 
