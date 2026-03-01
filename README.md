@@ -14,15 +14,15 @@
 <!-- ══════════════ SEÇÃO 1 — EDITOR DE CÓDIGO ══════════════ -->
 
 ```tsx
-// 📁 src/dev/SeuNome.tsx                              ● não salvo
+// 📁 src/dev/Christiantx96.tsx                              ● não salvo
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 import { Developer, Stack, Contact } from "@universe/earth/brasil";
 
-const SeuNome: Developer = {
+const christiantx96: Developer = {
 
   // 🟡 IDENTIDADE
-  nome:        "Seu Nome",
+  nome:        "christian Teixeira",
   role:        "Full Stack Developer",
   localização: "🇧🇷 Brasil  →  🌐 Remoto",
   status:      "🟢 Disponível para oportunidades",
@@ -34,28 +34,27 @@ const SeuNome: Developer = {
 
   // 🟣 STACK
   stack: {
-    frontend:  ["⚛️ React", "🔺 Next.js", "🎨 TailwindCSS", "📘 TypeScript"],
-    backend:   ["🟢 Node.js", "🐍 Python", "🐘 PostgreSQL", "🔴 Redis"],
-    devops:    ["🐳 Docker", "☁️ AWS", "⚙️ GitHub Actions"],
+    frontend:  ["⚛️ React", "🟠 html", "🎨 CSS", "🟡javascript", "📘 TypeScript"],
+    backend:   ["🟢 Node.js", "🐍 Python", "🐘 PostgreSQL"],
+    devops:    ["⚙️ GitHub Actions"],
   },
 
   // 🟠 APRENDENDO AGORA
   atualmente: {
-    estudando: "☸️ Kubernetes  +  📐 System Design",
-    criando:   "🛠️ SaaS pessoal com Next.js + Go",
-    lendo:     "📚 Clean Architecture — Robert C. Martin",
+    estudando: "📐 System Design",
+    criando:   "🛠️ SaaS pessoal com tipescript + sql",
   },
 
   // 🔴 CONTATO
   contato: {
     linkedin:  "linkedin.com/in/seuperfil",
-    portfolio: "seusite.dev",
-    email:     "seuemail@gmail.com",
+    portfolio: "https://talentomaximo.github.io/site-trajetto/",
+    email:     "cd1996.ads@gmail.com",
   },
 
 };
 
-export default SeuNome;  // ← clique em mim 🖱️
+export default Christiantx96;  // ← clique em mim 🖱️
 ```
 
 ---
@@ -73,8 +72,8 @@ $ github --user seuusername --stats
   └─ 🔥 Streak atual         →  sem parar
 
 $ ls ./projetos --top
-  ├─ 🚀  [repo-alpha]  →  SaaS  │ Next.js · Prisma · Stripe
-  ├─ ⚡  [repo-beta]   →  API   │ Node.js · PostgreSQL · Docker
+  ├─ 🚀  [site-trajetto]  →  SaaS  │ typescript · html · css
+  ├─ ⚡  [projeto]   →  SaaS   │ Node.js · PostgreSQL · Docker
   └─ 🔧  [repo-gamma]  →  CLI   │ Python · Rich · Typer
 
 $ ping contato --all
@@ -103,7 +102,7 @@ $ fortune
 <!-- BADGES REDES SOCIAIS -->
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuperfil)
+[![instagram](https://img.shields.io/badge/instagram-0077B5?style=for-the-badge&logo=Instagram&logoColor=white)](https://linkedin.com/in/seuperfil)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://seusite.dev)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-A78BFA?style=for-the-badge&logo=github&logoColor=black)](https://github.com/seuusername)
