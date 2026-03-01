@@ -1,116 +1,46 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=130&section=header&text=Seu+Nome&fontSize=42&fontColor=58a6ff&fontAlignY=65&desc=Full+Stack+Developer&descSize=16&descColor=8b949e&animation=fadeIn"/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=&animation=twinkling"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=500&lines=%F0%9F%92%BB+Construindo+produtos+do+zero+ao+deploy;%E2%98%95+Caf%C3%A9+%2B+c%C3%B3digo+%3D+solu%C3%A7%C3%B5es+reais;%F0%9F%9A%80+Open+to+work+%E2%80%94+Vamos+construir+juntos%3F" alt="Typing SVG" /></a>
 
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&height=60&lines=const+dev+%3D+%22Christian+Teixeira%22+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;function+build(idea)+%7B+return+%F0%9F%9A%80+%7D;%2F%2F+Transformando+caf%C3%A9+em+c%C3%B3digo+%E2%98%95;while(true)+%7B+learn()+%7C%7C+create()+%7D" alt="Typing SVG" />
-</a>
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuperfil)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2358a6ff.svg?style=flat-square&logo=vercel&logoColor=white)](https://seusite.dev)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+![Visitors](https://komarev.com/ghpvc/?username=seuusername&style=flat-square&color=58a6ff&label=visitors)
 
 </div>
 
 ---
 
-<!-- ══════════════ SEÇÃO 1 — EDITOR DE CÓDIGO ══════════════ -->
+### 🛠️ Stack
 
-```tsx
-// 📁 src/dev/Christiantx96.tsx                              ● não salvo
-// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-import { Developer, Stack, Contact } from "@universe/earth/brasil";
-
-const christiantx96: Developer = {
-
-  // 🟡 IDENTIDADE
-  nome:        "christian Teixeira",
-  role:        "Full Stack Developer",
-  localização: "🇧🇷 Brasil  →  🌐 Remoto",
-  status:      "🟢 Disponível para oportunidades",
-
-  // 🔵 SOBRE
-  bio: `Apaixonado por transformar ideias em produtos reais.
-        Gosto de código limpo, UX que impressiona
-        e soluções que escalam de 1 para 1 milhão de usuários.`,
-
-  // 🟣 STACK
-  stack: {
-    frontend:  ["⚛️ React", "🟠 html", "🎨 CSS", "🟡javascript", "📘 TypeScript"],
-    backend:   ["🟢 Node.js", "🐍 Python", "🐘 PostgreSQL"],
-    devops:    ["⚙️ GitHub Actions"],
-  },
-
-  // 🟠 APRENDENDO AGORA
-  atualmente: {
-    estudando: "📐 System Design",
-    criando:   "🛠️ SaaS pessoal com tipescript + sql",
-  },
-
-  // 🔴 CONTATO
-  contato: {
-    linkedin:  "linkedin.com/in/seuperfil",
-    portfolio: "https://talentomaximo.github.io/site-trajetto/",
-    email:     "cd1996.ads@gmail.com",
-  },
-
-};
-
-export default Christiantx96;  // ← clique em mim 🖱️
-```
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-<!-- ══════════════ SEÇÃO 2 — TERMINAL + STATS ══════════════ -->
-
-```bash
-# 📁 terminal  ~  stats & projetos               ██████████ 100%
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-$ github --user seuusername --stats
-  ├─ ⭐ Stars conquistadas   →  calculando...
-  ├─ 🔀 Pull Requests        →  muitos e bons
-  ├─ 🐛 Issues resolvidas    →  mais do que gostaria
-  └─ 🔥 Streak atual         →  sem parar
-
-$ ls ./projetos --top
-  ├─ 🚀  [site-trajetto]  →  SaaS  │ typescript · html · css
-  ├─ ⚡  [projeto]   →  SaaS   │ Node.js · PostgreSQL · Docker
-  └─ 🔧  [repo-gamma]  →  CLI   │ Python · Rich · Typer
-
-$ ping contato --all
-  ✅  linkedin  →  200 OK   🟦
-  ✅  portfolio →  200 OK   🟪
-  ✅  email     →  200 OK   🟥
-
-$ fortune
-  💬 "Código é poesia. Faça valer cada linha."
-
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
+### 📊 Stats
 
 <div align="center">
 
-<!-- STATS LADO A LADO -->
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=A78BFA&text_color=79c0ff&hide_title=false&rank_icon=github"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=79c0ff&langs_count=6"/>
+<img height="155em" src="https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
+<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6"/>
 
-<!-- STREAK -->
-<br/>
-<img src="https://streak-stats.demolab.com?user=seuusername&theme=dark&hide_border=true&background=0d1117&stroke=00D9FF&ring=A78BFA&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=79c0ff&dates=586069"/>
-
-<!-- BADGES REDES SOCIAIS -->
-<br/><br/>
-
-[![instagram](https://img.shields.io/badge/instagram-0077B5?style=for-the-badge&logo=Instagram&logoColor=white)](https://linkedin.com/in/seuperfil)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://seusite.dev)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
-[![Youtube](https://img.shields.io/badge/youtube-A78BFA?style=for-the-badge&logo=youtube&logoColor=black)](https://github.com/seuusername)
-
-<br/>
-
-![Visitors](https://komarev.com/ghpvc/?username=seuusername&color=00D9FF&style=flat-square&label=👁️+visitantes)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer&animation=twinkling"/>
+[![Streak](https://streak-stats.demolab.com?user=seuusername&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&stroke=58a6ff30)](https://git.io/streak-stats)
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=80&section=footer"/>
