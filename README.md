@@ -32,14 +32,37 @@
 
 ---
 
-### 📊 Stats
+### 📡 Métricas
 
 <div align="center">
 
-<img height="155em" src="https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
-<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6"/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=seuusername&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Streak](https://streak-stats.demolab.com?user=seuusername&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&stroke=58a6ff30)](https://git.io/streak-stats)
+</div>
+
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+
+**🔥 Sequência de commits**
+
+[![Streak](https://streak-stats.demolab.com?user=seuusername&theme=dark&hide_border=true&background=0d1117&ring=ff6b6b&fire=ff6b6b&currStreakLabel=58a6ff&stroke=ffffff10&dates=8b949e&sideLabels=8b949e)](https://git.io/streak-stats)
+
+</td>
+<td width="50%" align="center">
+
+**📈 Atividade recente**
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=seuusername&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area=true&area_color=58a6ff20&hide_border=true&radius=4)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=donut-vertical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6"/>
+<img height="145em" src="https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=ff6b6b&text_color=8b949e&hide_title=true&rank_icon=percentile"/>
 
 </div>
 
